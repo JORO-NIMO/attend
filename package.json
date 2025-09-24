@@ -1,0 +1,1 @@
+{"name":"attendance-proximity-app","version":"1.0.0","private":true,"scripts":{"start":"cd web && npm start","build":"cd web && npm run build","deploy":"firebase deploy"},"devDependencies":{"firebase-tools":"^13.0.0"}}
